@@ -54,6 +54,7 @@ I faced challenges like:
 - Buttons not responding initially.
 - Also the text and canvas issue 
 - Game starting directly without the menu scene. (I fixed it using ctrl+ shift+b then i did some changes put main menu on top and then main game )
+- Also sometiimes i forgot to add scripts in different objects and thinking a lot why it isnt working though everything was correct lol
 
 But fixing these issues helped me understand **how Unity scenes, UI buttons, and GameObjects interact**.  
 Now I feel confident to build more polished and advanced games in the future—this was truly the best start to my game-dev journey 🚀
